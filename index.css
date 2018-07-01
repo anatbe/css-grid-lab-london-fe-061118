@@ -10,9 +10,7 @@ body {
   display: grid;
   grid-template: 1fr [pinchi] 1fr 1fr/ 1fr 1fr 1fr 1fr;
   grid-gap: 5px;
-  justify-items: center;
-  align-items: center;
- 
+
   
 }
 .bigItem {
