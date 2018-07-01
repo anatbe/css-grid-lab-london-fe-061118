@@ -15,7 +15,9 @@ body {
 .bigItem {
   grid-row: pinchi/4;
   grid-column: 2/4;
-
+  height: 50%;
+  width: 50%;
+  justify-self: center;
 }
 
 
